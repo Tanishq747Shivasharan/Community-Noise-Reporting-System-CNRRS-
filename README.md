@@ -4,6 +4,7 @@ A comprehensive web application built with Spring Boot for reporting and managin
 
 ## Contributors 
 1] [Tanishq Shivasharan](https://github.com/Tanishq747Shivasharan) Lead Backend Developer for this project and design picker
+
 2] Aryan Jakkal 
 
 ## Table of Contents
