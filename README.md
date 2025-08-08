@@ -2,6 +2,10 @@
 
 A comprehensive web application built with Spring Boot for reporting and managing community noise complaints. This system allows citizens to submit noise reports with location details, descriptions, and optional image attachments, while providing administrators with tools to view and manage all submitted reports.
 
+## Contributors 
+1] [Tanishq Shivasharan](https://github.com/Tanishq747Shivasharan) Lead Backend Developer for this project and design picker
+2] Aryan Jakkal 
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
