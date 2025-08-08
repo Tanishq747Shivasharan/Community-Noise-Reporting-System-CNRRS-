@@ -155,7 +155,7 @@ src/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Tanishq747Shivasharan/Community-Noise-Reporting-System-CNRRS-.git
-   cd community-noise-reporting-system
+   cd Community-Noise-Reporting-System-CNRRS- 
    ```
 
 2. **Configure Maven dependencies**
