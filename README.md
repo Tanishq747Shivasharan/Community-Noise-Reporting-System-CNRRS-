@@ -154,7 +154,7 @@ src/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/community-noise-reporting-system.git
+   git clone https://github.com/Tanishq747Shivasharan/Community-Noise-Reporting-System-CNRRS-.git
    cd community-noise-reporting-system
    ```
 
