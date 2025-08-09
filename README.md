@@ -7,6 +7,8 @@ A comprehensive web application built with Spring Boot for reporting and managin
 
 2] Aryan Jakkal 
 
+3] Vinay Maheshwarm
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
